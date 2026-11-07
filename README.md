@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0c0d&height=160&section=header&text=Priyanka%20Rawat&fontSize=42&fontColor=d8b5d1&fontAlignY=40&desc=Aspiring%20Data%20Analyst&descSize=17&descColor=d285c7&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0c0d&height=170&section=header&text=Priyanka%20Rawat&fontSize=44&fontColor=d8b5d1&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=17&descColor=d285c7&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Priyanka Rawat 👋</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I work with data to uncover insights, analyze business performance, and transform raw information into meaningful visualizations and dashboards.
+  I work with data to uncover patterns, analyze business performance, and transform raw information into meaningful insights through data analysis and interactive dashboards.
 </p>
 
 <p align="center">
@@ -28,7 +28,8 @@
 - 📊 Interested in data analytics, business intelligence, and dashboard development.
 - 🔎 Use Excel, SQL, and Python to explore, clean, and analyze datasets.
 - 📈 Build interactive Power BI dashboards using Power Query and DAX.
-- 🌱 Continuously improving analytical skills through practical projects and real-world datasets.
+- 🧩 Focus on transforming business data into understandable insights.
+- 🌱 Continuously developing analytical skills through practical projects.
 
 ## Featured Projects
 
@@ -39,17 +40,19 @@
 Developed an interactive Power BI dashboard to analyze mobile sales performance across five brands using 430 records.
 
 **Key Insights:**
+
 - Analyzed approximately ₹19.60 crore estimated revenue and 12,591 units sold.
-- Identified Realme as the leading brand with approximately ₹5.14 crore estimated revenue.
-- Compared brand performance, sales quantity, pricing, discounts, and customer ratings.
+- Identified Realme as the leading brand with approximately ₹5.14 crore estimated revenue and 4,231 units sold.
+- Compared product pricing, discounts, sales quantity, and customer ratings.
 - Identified Redmi Note 7 Pro as the highest-selling model with 713 units.
-- Analyzed customer ratings and discount patterns across mobile brands.
+- Analyzed Apple customer ratings, averaging 4.56/5.
+- Identified Poco's average discount of approximately 16%.
 
-<sub>Note: Revenue is estimated using listed sales price multiplied by sales quantity. These are dataset findings, not verified company-wide financial results.</sub>
+<sub>Note: Revenue is estimated as listed sales price multiplied by sales quantity. These are dataset findings, not verified company-wide financial results.</sub>
 
-<p>
+<p align="center">
   <a href="https://github.com/25PriyankaRawat1234/Mobile_Sales_Analysis_Project">
-    <img src="https://img.shields.io/badge/View%20Repository-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-b25490?style=for-the-badge&logo=github&logoColor=white" alt="View Mobile Sales Project" />
   </a>
 </p>
 
@@ -81,23 +84,19 @@ Developed an interactive Power BI dashboard to analyze mobile sales performance 
 
 **Uttarakhand Open University**
 
-Bachelor of Commerce (B.Com) — Accounting and Finance
+Bachelor of Commerce (B.Com)
+
+Specialization: Accounting and Finance
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25PriyankaRawat1234&theme=dark&hide_border=true&bg_color=0b0c0d&title_color=d285c7&text_color=d8b5d1&icon_color=b25490&include_all_commits=false&count_private=false" alt="GitHub Statistics" />
+  <img src="https://streak-stats.demolab.com/?user=25PriyankaRawat1234&theme=dark&hide_border=true&background=0b0c0d&ring=b25490&fire=d285c7&currStreakLabel=d8b5d1&sideLabels=d285c7&dates=d8b5d1" alt="Priyanka's GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=25PriyankaRawat1234&theme=dark&hide_border=true&background=0b0c0d&ring=b25490&fire=d285c7&currStreakLabel=d8b5d1&sideLabels=d285c7&dates=d8b5d1" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25PriyankaRawat1234&theme=dark&hide_border=true&bg_color=0b0c0d&title_color=d285c7&text_color=d8b5d1&layout=compact" alt="Most Used Languages" />
-</p>
-
-> GitHub statistics and language cards are provided by external services. Their availability and reported data may vary.
+<blockquote>
+  GitHub activity statistics are provided by an external service. Their availability and reported data may vary.
+</blockquote>
 
 ## Connect
 
