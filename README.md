@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="assets/ankit-hero.svg" alt="Ankit Rauthan — Data Analyst | SQL, Excel, Power BI and Python" width="100%" />
 </p>
 
@@ -36,6 +36,7 @@
 ## Featured Projects
 
 ### 🚗 Ola Ride Performance Analytics
+
 **Tools:** SQL · Advanced Excel · Power BI
 
 Explore ride performance and operational KPIs, including booking trends, cancellations, and customer experience. The project uses dashboard-driven analysis to support business decisions.
@@ -43,6 +44,7 @@ Explore ride performance and operational KPIs, including booking trends, cancell
 [**View repository →**](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi)
 
 ### 🛒 E-Commerce Sales & Profitability Dashboard
+
 **Tools:** Power BI · DAX · Power Query · Excel
 
 Track sales, revenue, and profitability KPIs; compare product and category performance; and present business trends through interactive visualizations.
@@ -50,6 +52,7 @@ Track sales, revenue, and profitability KPIs; compare product and category perfo
 [**View repository →**](https://github.com/AnkitRauthan1441/E-Commerce-Performance-Dashboard-Excel-Power-Bi)
 
 ### 📈 Sales Performance Analytics Dashboard
+
 **Tools:** Microsoft Excel · PivotTables · Charts · Dashboarding
 
 Analyze sales and profit performance, compare customer segments and product subcategories, and identify salesperson performance and product profitability.
@@ -58,16 +61,24 @@ Analyze sales and profit performance, compare customer segments and product subc
 
 ## Technical Toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-451126?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-701A3D?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-451126?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-701A3D?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-C77B9B?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="SQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="48" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/E76F00" width="48" height="48" alt="Matplotlib" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="SQL Server" />
 </p>
 
 ## GitHub Activity
@@ -96,4 +107,6 @@ Analyze sales and profit performance, compare customer segments and product subc
   <img src="assets/ankit-footer.svg" alt="Keep learning. Keep analyzing. Keep building." width="100%" />
 </p>
 
-<p align="center"><sub>Turning raw data into meaningful business insights.</sub></p>
+<p align="center">
+  <sub>Turning raw data into meaningful business insights.</sub>
+</p>
