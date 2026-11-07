@@ -62,20 +62,40 @@ Analyze sales and profit performance, compare customer segments and product subc
 ## Technical Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,powerbi,excel,mysql&theme=dark" alt="Python, Pandas, NumPy, Matplotlib, Power BI, Excel and MySQL" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="Microsoft SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="52" height="52" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="52" height="52" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="52" height="52" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="52" height="52" alt="Matplotlib" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="52" height="52" alt="Power BI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52" height="52" alt="Microsoft Excel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="52" height="52" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="52" height="52" alt="SQL Server" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/100/d8b5d1/database.png" width="52" height="52" alt="SQL Database" />
 </p>
 
 ## GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AnkitRauthan1441&theme=dark&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&include_all_commits=false&count_private=false" alt="GitHub statistics" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnkitRauthan1441&theme=dark&hide_border=true&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=F8F0F3&sideLabels=E5B5C7&dates=C77B9B" alt="GitHub contribution streak" />
 </p>
 
-> GitHub statistics and contribution cards are provided by external services. Their availability and reported data may vary.
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitRauthan1441&theme=dark&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&layout=compact" alt="Most-used languages based on public repositories" />
+</p>
+
+> GitHub statistics and language cards are provided by external services. Their availability and reported data may vary.
 
 ## Connect
 
