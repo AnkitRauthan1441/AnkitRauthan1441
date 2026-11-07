@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/25PriyankaRawat1234">
-    <img src="https://img.shields.io/badge/GitHub-Explore-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-25PRIYANKARAWAT1234-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="mailto:25priyanka1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-b25490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-b25490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
 </p>
 
@@ -34,17 +34,17 @@
 ## Technical Toolkit
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/python--v1.png" width="65" height="65" alt="Python" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="65" height="65" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="65" height="65" alt="GitHub" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="65" height="65" alt="Microsoft Excel" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="65" height="65" alt="Microsoft Excel" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/database.png" width="65" height="65" alt="SQL Database" />
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/database.png" width="65" height="65" alt="SQL Database" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="65" height="65" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="65" height="65" alt="Power BI" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="65" height="65" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="65" height="65" alt="Pandas" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="65" height="65" alt="NumPy" />
 </p>
@@ -107,14 +107,16 @@ Specialization: Accounting and Finance
 
 <p align="center">
   <a href="https://github.com/25PriyankaRawat1234">
-    <img src="https://img.shields.io/badge/GitHub-25PriyankaRawat1234-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GITHUB-25PRIYANKARAWAT1234-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="mailto:25priyanka1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-b25490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-b25490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
 </p>
 
-- **Location:** Dehradun, Uttarakhand, India
+<p align="center">
+  📍 Dehradun, Uttarakhand, India
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0c0d&height=110&section=footer" width="100%" />
