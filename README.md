@@ -1,26 +1,23 @@
-<p align="center">
-  <img src="assets/ankit-hero.svg" alt="Ankit Rauthan — Data Analyst | SQL, Excel, Power BI and Python" width="100%" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0c0d&height=170&section=header&text=Priyanka%20Rawat&fontSize=44&fontColor=d8b5d1&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=17&descColor=d285c7&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Ankit Rauthan 👋</h1>
+<h1 align="center">Hi, I'm Priyanka Rawat 👋</h1>
 
 <p align="center">
-  <strong>Aspiring Data Analyst</strong> · SQL · Advanced Excel · Power BI · Python
-</p>
-
-<p align="center">
-  I work with data to uncover patterns, understand business performance, and communicate findings through clear analysis and dashboards.
+  <strong>Aspiring Data Analyst</strong> · Excel · SQL · Power BI · Python
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-rauthan-1815a5415/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  I work with data to uncover patterns, analyze business performance, and transform raw information into meaningful insights through data analysis and interactive dashboards.
+</p>
+
+<p align="center">
+  <a href="https://github.com/25PriyankaRawat1234">
+    <img src="https://img.shields.io/badge/GitHub-Explore-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:ANKITRTH81945@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-Contact-C77B9B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ankittrtth1441-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-451126?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="mailto:25priyanka1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-b25490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -28,72 +25,94 @@
 
 ## About Me
 
-- 📊 Interested in data analysis, business reporting, and dashboard development.
-- 🔎 Use SQL and Python to explore data, and Excel and Power BI to analyze and communicate results.
-- 🧩 Focus on turning business questions into understandable metrics and actionable findings.
-- 🌱 Continuously building practical projects and strengthening my analytical toolkit.
-
-## Featured Projects
-
-### 🚗 Ola Ride Performance Analytics
-**Tools:** SQL · Advanced Excel · Power BI
-
-Explore ride performance and operational KPIs, including booking trends, cancellations, and customer experience. The project uses dashboard-driven analysis to support business decisions.
-
-[**View repository →**](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi)
-
-### 🛒 E-Commerce Sales & Profitability Dashboard
-**Tools:** Power BI · DAX · Power Query · Excel
-
-Track sales, revenue, and profitability KPIs; compare product and category performance; and present business trends through interactive visualizations.
-
-[**View repository →**](https://github.com/AnkitRauthan1441/E-Commerce-Performance-Dashboard-Excel-Power-Bi)
-
-### 📈 Sales Performance Analytics Dashboard
-**Tools:** Microsoft Excel · PivotTables · Charts · Dashboarding
-
-Analyze sales and profit performance, compare customer segments and product subcategories, and identify salesperson performance and product profitability.
-
-[**View repository →**](https://github.com/AnkitRauthan1441/Sales-Performance-Analytics-Dashboard)
+- 📊 Interested in data analytics, business intelligence, and dashboard development.
+- 🔎 Use Excel, SQL, and Python to explore, clean, and analyze datasets.
+- 📈 Build interactive Power BI dashboards using Power Query and DAX.
+- 🧩 Focus on transforming business data into understandable insights.
+- 🌱 Continuously developing analytical skills through practical projects.
 
 ## Technical Toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-451126?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-701A3D?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-451126?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-701A3D?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-C77B9B?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,github&theme=dark" alt="Python and GitHub" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="48" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-b25490?style=flat-square&logo=databricks&logoColor=white" height="48" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" alt="NumPy" />
 </p>
+
+## Featured Projects
+
+### 📱 Mobile Sales Analysis Dashboard
+
+**Tools:** Power BI · Power Query · DAX · Excel
+
+Developed an interactive Power BI dashboard to analyze mobile sales performance across five brands using 430 records.
+
+**Key Insights:**
+
+- Analyzed approximately ₹19.60 crore estimated revenue and 12,591 units sold.
+- Identified Realme as the leading brand with approximately ₹5.14 crore estimated revenue and 4,231 units sold.
+- Compared product pricing, discounts, sales quantity, and customer ratings.
+- Identified Redmi Note 7 Pro as the highest-selling model with 713 units.
+- Analyzed Apple customer ratings, averaging 4.56/5.
+- Identified Poco's average discount of approximately 16%.
+
+<sub>Note: Revenue is estimated as listed sales price multiplied by sales quantity. These are dataset findings, not verified company-wide financial results.</sub>
+
+<p align="center">
+  <a href="https://github.com/25PriyankaRawat1234/Mobile_Sales_Analysis_Project">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-b25490?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+  </a>
+</p>
+
+## Core Competencies
+
+- **Power BI:** Power Query, DAX, Measures, Calculated Columns, Interactive Dashboards, Data Visualization
+- **SQL:** Joins, CTEs, Window Functions, Aggregate Functions, Subqueries
+- **Python:** Pandas, NumPy, Lists, Tuples, Lambda Functions
+- **Analytics:** Data Cleaning, Data Analysis, Business Analysis, Business Intelligence
+
+## Certifications
+
+- Excel Skills for Business: Intermediate II
+
+## Education
+
+**Uttarakhand Open University**
+
+Bachelor of Commerce (B.Com)
+
+Specialization: Accounting and Finance
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AnkitRauthan1441&theme=dark&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&include_all_commits=false&count_private=false" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com/?user=25PriyankaRawat1234&theme=dark&hide_border=true&background=0b0c0d&ring=b25490&fire=d285c7&currStreakLabel=d8b5d1&sideLabels=d285c7&dates=d8b5d1" alt="Priyanka's GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnkitRauthan1441&theme=dark&hide_border=true&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=F8F0F3&sideLabels=E5B5C7&dates=C77B9B" alt="GitHub contribution streak" />
+  <sub>GitHub activity statistics are provided by external services. Their availability and reported data may vary.</sub>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitRauthan1441&theme=dark&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&layout=compact" alt="Most-used languages based on public repositories" />
-</p>
-
-> GitHub statistics and language cards are provided by external services. Their availability and reported data may vary.
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/ankit-rauthan-1815a5415](https://www.linkedin.com/in/ankit-rauthan-1815a5415/)
-- **Portfolio:** [ankittrtth1441-portfolio.netlify.app](https://ankittrtth1441-portfolio.netlify.app/)
-- **Email:** [ANKITRTH81945@GMAIL.COM](mailto:ANKITRTH81945@GMAIL.COM)
-
-<p align="center">
-  <img src="assets/ankit-footer.svg" alt="Keep learning. Keep analyzing. Keep building." width="100%" />
+<p>
+  <a href="https://github.com/25PriyankaRawat1234">
+    <img src="https://img.shields.io/badge/GitHub-25PriyankaRawat1234-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:25priyanka1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-b25490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="center"><sub>Turning raw data into meaningful business insights.</sub></p>
+- **Location:** Dehradun, Uttarakhand, India
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0c0d&height=110&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Turning Data into Insights. Learning, Analyzing & Growing. 💜</sub>
+</p>
