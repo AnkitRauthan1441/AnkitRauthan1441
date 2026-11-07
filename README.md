@@ -34,12 +34,19 @@
 ## Technical Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github&theme=dark" alt="Python and GitHub" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="48" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-b25490?style=flat-square&logo=databricks&logoColor=white" height="48" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="58" height="58" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="58" height="58" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="58" height="58" alt="Microsoft Excel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/database.svg" width="58" height="58" alt="SQL Database" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="58" height="58" alt="Power BI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="58" height="58" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="58" height="58" alt="NumPy" />
 </p>
 
 ## Featured Projects
@@ -93,12 +100,12 @@ Specialization: Accounting and Finance
 </p>
 
 <p align="center">
-  <sub>GitHub activity statistics are provided by external services. Their availability and reported data may vary.</sub>
+  <sub>GitHub activity statistics are provided by an external service. Their availability and reported data may vary.</sub>
 </p>
 
 ## Connect
 
-<p>
+<p align="center">
   <a href="https://github.com/25PriyankaRawat1234">
     <img src="https://img.shields.io/badge/GitHub-25PriyankaRawat1234-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
