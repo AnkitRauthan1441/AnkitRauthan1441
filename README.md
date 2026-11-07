@@ -62,45 +62,34 @@ Analyze sales and profit performance, compare customer segments and product subc
 ## Technical Toolkit
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="SQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="48" height="48" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/matplotlib/E76F00" width="48" height="48" alt="Matplotlib" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,powerbi,excel,mysql&theme=dark" alt="Python, Pandas, NumPy, Matplotlib, Power BI, Excel and MySQL" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="Microsoft SQL Server" />
 </p>
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AnkitRauthan1441&theme=dark&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&include_all_commits=false&count_private=false" alt="GitHub statistics" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnkitRauthan1441&theme=dark&hide_border=true&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=F8F0F3&sideLabels=E5B5C7&dates=C77B9B" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitRauthan1441&theme=dark&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&layout=compact" alt="Most-used languages based on public repositories" />
-</p>
-
-> GitHub statistics and language cards are provided by external services. Their availability and reported data may vary.
+> GitHub statistics and contribution cards are provided by external services. Their availability and reported data may vary.
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/ankit-rauthan-1815a5415](https://www.linkedin.com/in/ankit-rauthan-1815a5415/)
-- **Portfolio:** [ankittrtth1441-portfolio.netlify.app](https://ankittrtth1441-portfolio.netlify.app/)
+<p align="center">
+  <a href="https://github.com/AnkitRauthan1441">
+    <img src="https://img.shields.io/badge/GITHUB-ANKITRAUTHAN1441-3b4350?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:ANKITRTH81945@GMAIL.COM">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-b25490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
+  </a>
+</p>
+
+- **LinkedIn:** [Ankit Rauthan](https://www.linkedin.com/in/ankit-rauthan-1815a5415/)
+- **Portfolio:** [Explore Portfolio](https://ankittrtth1441-portfolio.netlify.app/)
 - **Email:** [ANKITRTH81945@GMAIL.COM](mailto:ANKITRTH81945@GMAIL.COM)
 
 <p align="center">
