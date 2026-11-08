@@ -92,6 +92,13 @@ Analyze sales and profit performance, compare customer segments and product subc
 - **Portfolio:** [ankittrtth1441-portfolio.netlify.app](https://ankittrtth1441-portfolio.netlify.app/)
 - **Email:** [ANKITRTH81945@GMAIL.COM](mailto:ANKITRTH81945@GMAIL.COM)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 <p align="center">
   <img src="assets/ankit-footer.svg" alt="Keep learning. Keep analyzing. Keep building." width="100%" />
 </p>
